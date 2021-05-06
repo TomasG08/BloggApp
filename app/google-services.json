@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "811229040421",
+    "project_id": "blogapp-6887c",
+    "storage_bucket": "blogapp-6887c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811229040421:android:bbad26488bfe67d09254cc",
+        "android_client_info": {
+          "package_name": "com.cursoandroid.blogapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811229040421-9ci3keo1jabhhffd94vfdksjtmn1bf5c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXjdJbalf194i_IyIGPPrHy85l-mORejM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811229040421-9ci3keo1jabhhffd94vfdksjtmn1bf5c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
